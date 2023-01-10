@@ -1,11 +1,10 @@
 ﻿# STATKI_GAME
 Popularna gra w statki w której gramy z komputerem <br/>
 Wykorzystane technologie: JS, HTML, CSS <br/>
-W kodzie każda funkcja jest krótko zakomentowana.
-Jest możliwość zmiany const (rozmiar planszy oraz ilość i długość statków). <br/>
-Layout:
-![1](https://user-images.githubusercontent.com/122048598/211676981-96e6646a-7aa7-4a9c-a934-067c4925bd73.PNG)
-
+Layout: <br/>
+![1](https://user-images.githubusercontent.com/122048598/211676981-96e6646a-7aa7-4a9c-a934-067c4925bd73.PNG) <br/>
+Jest możliwość zmiany const w kodzie (rozmiar planszy oraz ilość i długość statków).<br/>
+Funkcje są krótko zakomentowane. <br/>
 Po krótce streszczając kod aplikacji można go podzielić na trzy części:
 1. Wygenerowanie statków z "kwadratów" np. statek o długości 3 składa się z 3 kwadratów. Gracz zaznacza który statek chce postawić na planszy, po postawieniu statek znika
 2. Wyświetlenie pustej planszy na której gracz ma postawić swoje statki (gra nie pozwoli graczowi na postawienie statku nie zgodnie z zasadami). Gracz ma możliwość obrotu statku.
