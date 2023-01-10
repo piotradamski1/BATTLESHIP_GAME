@@ -1,8 +1,8 @@
 ﻿# STATKI_GAME
-Popularna gra w statki w której gramy z komputerem
-Technologie jakie wykorzystałem w mojej aplikacji to czysty JavaScript, HTML i CSS
-Każda funkcja jest zwięźle zakomentowana i opisana za co opdowiada
-W kodzie mamy możliwość zmiany ilości statków ich rozmiaru oraz wielkości planszy ponieważ elementy są tworzone dynamicznie.
+Popularna gra w statki w której gramy z komputerem <br/>
+Wykorzystane technologie: JS, HTML, CSS <br/>
+W kodzie każda funkcja jest krótko zakomentowana.
+Jest możliwość zmiany const (rozmiar planszy oraz ilość i długość statków). <br/>
 Layout:
 ![1](https://user-images.githubusercontent.com/122048598/211676981-96e6646a-7aa7-4a9c-a934-067c4925bd73.PNG)
 
