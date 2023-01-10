@@ -7,9 +7,9 @@ Jest możliwość zmiany const w kodzie (rozmiar planszy oraz ilość i długoś
 Funkcje są krótko zakomentowane. <br/>
 <br/>
 Streszczenie działania:
-1. Wygenerowanie statków z "kwadratów" np. statek o długości 3 składa się z 3 kwadratów. Gracz zaznacza który statek chce postawić na planszy, po postawieniu statek znika
-2. Wyświetlenie pustej planszy na której gracz ma postawić swoje statki (gra nie pozwoli graczowi na postawienie statku nie zgodnie z zasadami). Gracz ma możliwość obrotu statku.
-3. Wylosowanie ułożenia statków "komputera" (czyli przeciwnika)
+1. Na podstawie tablicy statków wygenerowanie statków. (Lewa strona na załączonym zdjęciu) Gracz zaznacza który statek chce postawić na planszy, po postawieniu statek znika
+2. Wyświetlenie pustej planszy (środek) na której gracz ma postawić swoje statki (gra nie pozwoli graczowi na postawienie statku nie zgodnie z zasadami). Gracz ma możliwość obrotu statku.
+3. Wylosowanie ułożenia statków "komputera" czyli przeciwnika (prawa strona)
 
 Po czym rozpoczony się rozgrywka w której to gracz i "komputer" na zmianę oddają strzały na tablice gdy pudłują pojawia się O gdy trafią X a gdy zatopią statek podświetla się. Dodatkowo na górze strony są wyświetlane wiadomości do gracza które przedstawia obecną sytuację w grze czyli co gracz ma zrobić, kogo jest ruch oraz np rezultat strzału.
 
