@@ -14,4 +14,4 @@ Streszczenie działania:
 Po czym rozpoczony się rozgrywka w której to gracz i "komputer" na zmianę oddają strzały na tablice gdy pudłują pojawia się O gdy trafią X a gdy zatopią statek podświetla się. Dodatkowo na górze strony są wyświetlane wiadomości do gracza które przedstawia obecną sytuację w grze czyli co gracz ma zrobić, kogo jest ruch oraz np rezultat strzału.
 
 Wszystkie operacje logiczne odbywaja się na tablicach 2d
-Cdn..
+Cdn..soon
