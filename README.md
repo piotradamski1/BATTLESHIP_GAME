@@ -9,7 +9,7 @@ Funkcje są krótko zakomentowane. <br/>
 <br/>
 Gracz rozmieszcza statki na swojej planszy (postawienie niezgodne z zasadami jest niemożliwe) </br>![statki3](https://user-images.githubusercontent.com/122048598/214632702-91c12d27-69e2-4f86-80d5-ce954f25e9b5.png)
 </br>
-Losowane jest tablica statków dla "komputera",po czym rozpoczony się rozgrywka w której to gracz i "komputer" na zmianę oddają strzały. <br>
+Losowana jest tablica statków dla "komputera", po czym rozpoczony się rozgrywka w której to gracz i "komputer" na zmianę oddają strzały. <br>
 Pudło - O </br>
 Trafiony - X </br>
 Trafiony-zatopiony - X i podświetlenie </br>
