@@ -1,6 +1,6 @@
 ﻿# STATKI_GAME
 Popularna gra w statki w której gramy z komputerem <br/>
-Wykorzystane technologie: JS, HTML, CSS <br/>
+<b> Wykorzystane technologie: JS, HTML, CSS </b> <br/>
 Layout: <br/>
 ![1](https://user-images.githubusercontent.com/122048598/211676981-96e6646a-7aa7-4a9c-a934-067c4925bd73.PNG) <br/>
 Jest możliwość zmiany const w kodzie (rozmiar planszy oraz ilość i długość statków).<br/>
