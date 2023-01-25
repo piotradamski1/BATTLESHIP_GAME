@@ -4,14 +4,15 @@ Popularna gra w statki w której gramy z komputerem <br/>
 Layout: <br/>
 ![1](https://user-images.githubusercontent.com/122048598/211676981-96e6646a-7aa7-4a9c-a934-067c4925bd73.PNG) <br/>
 Jest możliwość zmiany const w kodzie (rozmiar planszy oraz ilość i długość statków).<br/>
+Wszystkie operacje logiczne odbywaja się na tablicach 2d </br>
 Funkcje są krótko zakomentowane. <br/>
 <br/>
-Streszczenie działania:
-1. Na podstawie tablicy statków wygenerowanie statków. (Lewa strona na załączonym zdjęciu) Gracz zaznacza który statek chce postawić na planszy, po postawieniu statek znika
-2. Wyświetlenie pustej planszy (środek) na której gracz ma postawić swoje statki (gra nie pozwoli graczowi na postawienie statku nie zgodnie z zasadami). Gracz ma możliwość obrotu statku.
-3. Wylosowanie ułożenia statków "komputera" czyli przeciwnika (prawa strona)
+Gracz rozmieszcza statki na swojej planszy (postawienie niezgodne z zasadami jest niemożliwe) </br>![statki3](https://user-images.githubusercontent.com/122048598/214632702-91c12d27-69e2-4f86-80d5-ce954f25e9b5.png)
+</br>
+Losowane jest tablica statków dla "komputera",po czym rozpoczony się rozgrywka w której to gracz i "komputer" na zmianę oddają strzały. <br>
+Pudło - O </br>
+Trafiony - X </br>
+Trafiony-zatopiony - X i podświetlenie </br>
+Button "Zobacz statki" pozwala na podpatrzenie statków rywala </br> 
+![statki2](https://user-images.githubusercontent.com/122048598/214633351-19047fad-d09b-4af1-ab02-68fbf27c4b5f.PNG)
 
-Po czym rozpoczony się rozgrywka w której to gracz i "komputer" na zmianę oddają strzały na tablice gdy pudłują pojawia się O gdy trafią X a gdy zatopią statek podświetla się. Dodatkowo na górze strony są wyświetlane wiadomości do gracza które przedstawia obecną sytuację w grze czyli co gracz ma zrobić, kogo jest ruch oraz np rezultat strzału.
-
-Wszystkie operacje logiczne odbywaja się na tablicach 2d
-Cdn..soon
