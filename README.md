@@ -1,4 +1,4 @@
-﻿# STATKI_GAME
+﻿# BATTLESHIP_GAME
 Popularna gra w statki w której gramy z komputerem <br/>
 <b> Wykorzystane technologie: JS, HTML, CSS </b> <br/>
 Layout: <br/>
